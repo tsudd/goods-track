@@ -1,3 +1,3 @@
 export const sosediParser = () => {
-  console.log('sanin parser')
+  console.log('sanin parser dadad')
 }
