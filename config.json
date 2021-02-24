@@ -1,0 +1,14 @@
+{
+  "sosediOptions": {
+    "marketName": "Sosedi",
+    "goodsURL": "https://sosedi.by/sales/",
+    "sosediAPI": "https://sosedi.by/local/api/getListProducts.php",
+    "pagesHtmlSection": "pagination-style",
+    "goodFields": {
+      "name": "title",
+      "price": "price",
+      "priceBack": "priceBack",
+      "sale": "sale"
+    }
+  }
+}
