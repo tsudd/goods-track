@@ -12,5 +12,5 @@ def get_html(url):
 
 def write_goods(goods):
     fs = open(DIST_PATH, 'w')
-    json.dump(goods, fs)
+    json.dump(goods, fs, ensure_ascii=False)
     fs.close()
